@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Environment
+env/
+venv/
+.venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ChromeDriver (optional if large)
+drivers/chromedriver.exe
+
+# Reports
+reports/
